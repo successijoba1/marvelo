@@ -5,13 +5,13 @@
   justify-content: center;
   align-items: center;
   /* background-color: red; */
-  background: ;
+  background: url('https://th.bing.com/th/id/R.ce7ddde17fc4d1f3b14fbcc932a16425?rik=3QR3y03nI4%2fIWA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwc1744069.jpg&ehk=LhtjX662Q4axS8dcUDhKbjEwHBWfk1HgO9dbIn0NpMI%3d&risl=&pid=ImgRaw&r=0');
   background-position: fixed;
   background-size: 100% ;
   background-repeat: no-repeat;
 }
 body{
-  background:;
+  background: url('https://th.bing.com/th/id/R.ce7ddde17fc4d1f3b14fbcc932a16425?rik=3QR3y03nI4%2fIWA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwc1744069.jpg&ehk=LhtjX662Q4axS8dcUDhKbjEwHBWfk1HgO9dbIn0NpMI%3d&risl=&pid=ImgRaw&r=0');
   background-position: fixed;
   background-size: 100% 100% ;
   background-repeat: no-repeat;

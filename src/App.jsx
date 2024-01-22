@@ -16,9 +16,9 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header"> Top 10 American Comedians</h1>
+        <h1 className="header">Success Wrestle Mania </h1>
         <input
-          placeholder="Search a Comedian"
+          placeholder="Search a Wrestler"
           className="topInput"
           value={searchTerm}
           onChange={handleSearch}
@@ -36,7 +36,7 @@ function App() {
               <h2>{data.alias}</h2>
               <p className="description">{data?.abilities[0]}</p>
               <div className="avatarInfo">
-                <div className="price"> 
+                <div className="price">
                   <ins>◘</ins>
                   <p>{data.team}</p>
                 </div>
